@@ -1,0 +1,7 @@
+{
+  "name": "Global Vision Conference 2025",
+  "description": "A premium, professional landing page for an international conference featuring speaker profiles, a detailed agenda, registration forms, and an AI-powered event assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
